@@ -1,8 +1,10 @@
 body {
 	font-family: 'Caveat', cursive;
 }
-.navbar-header{
+#header-nav{
 	background-color: #F6D53E;
+}
+.navbar-header{
 	height: 65px;
 	}	
 .navbar-toggle{
