@@ -1,0 +1,44 @@
+body {
+	font-family: 'Caveat', cursive;
+}
+.navbar-header{
+	background-color: #F6D53E;
+	height: 65px;
+	}	
+.navbar-toggle{
+	margin-top: 17px;
+}
+#nav-list{
+	text-align: center;
+}
+#nav-list span{
+	font-size: 2.0em;
+}
+hr{
+	border-width: 5px;
+	border-color: #464647;
+}
+h1{
+	margin-top:0px;
+	font-weight: bold;
+	color: #298EB8;
+	vertical-align: center; 
+    padding-top: 0;
+}
+.main-content h2{
+	text-align: center;
+	font-weight: bold;
+}
+.main-content h3{
+	font-weight: bold;
+	text-align: center;
+}
+.main-content p{
+	font-size: 1.2em;
+	color:#F6D53E;
+	font-family: 'Rubik', sans-serif; 
+}
+#cell{
+	background-color: #298EB8;
+}
+
